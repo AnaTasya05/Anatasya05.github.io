@@ -358,7 +358,7 @@ span {
     justify-content: center;
     background-color: var(--main-color);
     height: 300px;
-    width: 1000px; /* Added 'px' */
+    width: 500px; /* Added 'px' */
     border-radius: 3rem;
     border: 5px solid transparent;
     cursor: pointer;
